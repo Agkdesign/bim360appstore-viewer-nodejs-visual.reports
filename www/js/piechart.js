@@ -25,7 +25,7 @@ var _reportOptions = [
     { label : "Qty - Base Constraint",  fieldName: "Base Constraint", fieldName2: "3",  fieldType : "Properties"},
     { label : "Qty - System Type",      fieldName: "System Type",    fieldName2: "4",   fieldType : "Properties"},
     { label : "Qty - Assembly Code",    fieldName: "Assembly Code",  fieldName2: "5",   fieldType : "Properties"},
-    { label : "Qty - Material",         fieldName: "Material",   fieldName2: "function",      fieldType : "Properties"},
+    { label : "Qty - Material",         fieldName: "Material",   fieldName2: "Structural Material",      fieldType : "Properties"},
     { label : "Qty - Structural Material",         fieldName: "Structural Material",   fieldName2: "6",       fieldType : "Properties"}
 ];
 
